@@ -75,7 +75,6 @@ var styles = StyleSheet.create({
 });
 
 var BGWASH = 'rgba(255,255,255,0.8)';
-var WebContainer = require('./webcontainer');
 
 class MyWeb extends Component {
   render() {
